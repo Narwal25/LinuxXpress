@@ -16,7 +16,7 @@ Simply run the `menu.py` script, and LinuxXpress will present you with a menu of
 
 ## Contributors
 
-- [Khushwant](https://github.com/liborominivincet1)
+- [Khushwant](https://github.com/laboromniavincet1)
 - [Pardeep Narwal](https://github.com/Narwal25)
 - [Sagar Dahiya](https://github.com/fosssil)
   
